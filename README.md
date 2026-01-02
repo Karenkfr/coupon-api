@@ -17,7 +17,7 @@ Todos os endpoints, campos, tipos e status HTTP foram implementados exatamente c
 ## 🚀 Tecnologias Utilizadas
 
 - Java 17
-- Spring Boot 3.x
+- Spring Boot 3.3.9
 - Spring Web
 - Spring Data JPA
 - H2 Database (in-memory)
