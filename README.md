@@ -116,3 +116,4 @@ docker-compose down
 - Versionamento da API;
 - Listagem e filtros de cupons (por status ou data de expiração);
 - Criação de novos endpoints, a depender da necessidade do negócio.
+- Utilização de ferramentas de qualidade de código com maior aprofundamento (sonar, mend fortify)
